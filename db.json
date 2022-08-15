@@ -37,5 +37,11 @@
       "price": 100,
       "id": 3
     }
+  ],
+  "todo":[
+    {
+      "tasks" : "item1",
+      "status" : false
+    }
   ]
 }
